@@ -1,6 +1,6 @@
 # Developing Image Captioning Model With Deep Learning
 
-**Link for accessing the final app: [Image_Captioning_App](https://imagecaptioning-kwenglyqirasc9r798vnvp.streamlit.app/)**
+**Link for accessing the final app: [Image_Captioning_App](https://image-captioning-23.streamlit.app/)**
 
 ### Problem Statement
 
